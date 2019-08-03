@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/clickGame/static/css/main.8c00b466.chunk.css",
-    "main.js": "/clickGame/static/js/main.b5b04db7.chunk.js",
-    "main.js.map": "/clickGame/static/js/main.b5b04db7.chunk.js.map",
-    "runtime~main.js": "/clickGame/static/js/runtime~main.7080151e.js",
-    "runtime~main.js.map": "/clickGame/static/js/runtime~main.7080151e.js.map",
-    "static/css/2.266e55a5.chunk.css": "/clickGame/static/css/2.266e55a5.chunk.css",
-    "static/js/2.8e22a55e.chunk.js": "/clickGame/static/js/2.8e22a55e.chunk.js",
-    "static/js/2.8e22a55e.chunk.js.map": "/clickGame/static/js/2.8e22a55e.chunk.js.map",
-    "index.html": "/clickGame/index.html",
-    "precache-manifest.ad0fcc19032049d85c486a8c6f399a50.js": "/clickGame/precache-manifest.ad0fcc19032049d85c486a8c6f399a50.js",
-    "service-worker.js": "/clickGame/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/clickGame/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.8c00b466.chunk.css.map": "/clickGame/static/css/main.8c00b466.chunk.css.map"
+    "main.css": "/clckGame/static/css/main.8c00b466.chunk.css",
+    "main.js": "/clckGame/static/js/main.c9f7b314.chunk.js",
+    "main.js.map": "/clckGame/static/js/main.c9f7b314.chunk.js.map",
+    "runtime~main.js": "/clckGame/static/js/runtime~main.6b0743f5.js",
+    "runtime~main.js.map": "/clckGame/static/js/runtime~main.6b0743f5.js.map",
+    "static/css/2.266e55a5.chunk.css": "/clckGame/static/css/2.266e55a5.chunk.css",
+    "static/js/2.8e22a55e.chunk.js": "/clckGame/static/js/2.8e22a55e.chunk.js",
+    "static/js/2.8e22a55e.chunk.js.map": "/clckGame/static/js/2.8e22a55e.chunk.js.map",
+    "index.html": "/clckGame/index.html",
+    "precache-manifest.38e5710544e8ab23f5e3b25a06221fe7.js": "/clckGame/precache-manifest.38e5710544e8ab23f5e3b25a06221fe7.js",
+    "service-worker.js": "/clckGame/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/clckGame/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.8c00b466.chunk.css.map": "/clckGame/static/css/main.8c00b466.chunk.css.map"
   }
 }
