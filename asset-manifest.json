@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/clickGame/static/css/main.2cce8147.chunk.css",
-    "main.js": "/clickGame/static/js/main.bb6a68ba.chunk.js",
-    "main.js.map": "/clickGame/static/js/main.bb6a68ba.chunk.js.map",
+    "main.css": "/clickGame/static/css/main.8c00b466.chunk.css",
+    "main.js": "/clickGame/static/js/main.b5b04db7.chunk.js",
+    "main.js.map": "/clickGame/static/js/main.b5b04db7.chunk.js.map",
     "runtime~main.js": "/clickGame/static/js/runtime~main.7080151e.js",
     "runtime~main.js.map": "/clickGame/static/js/runtime~main.7080151e.js.map",
-    "static/js/2.b41502e9.chunk.js": "/clickGame/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/clickGame/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.266e55a5.chunk.css": "/clickGame/static/css/2.266e55a5.chunk.css",
+    "static/js/2.8e22a55e.chunk.js": "/clickGame/static/js/2.8e22a55e.chunk.js",
+    "static/js/2.8e22a55e.chunk.js.map": "/clickGame/static/js/2.8e22a55e.chunk.js.map",
     "index.html": "/clickGame/index.html",
-    "precache-manifest.1c1f183ef1b8bdf95994ed87cfb9eb20.js": "/clickGame/precache-manifest.1c1f183ef1b8bdf95994ed87cfb9eb20.js",
+    "precache-manifest.ad0fcc19032049d85c486a8c6f399a50.js": "/clickGame/precache-manifest.ad0fcc19032049d85c486a8c6f399a50.js",
     "service-worker.js": "/clickGame/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/clickGame/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/clickGame/static/media/logo.5d5d9eef.svg"
+    "static/css/2.266e55a5.chunk.css.map": "/clickGame/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.8c00b466.chunk.css.map": "/clickGame/static/css/main.8c00b466.chunk.css.map"
   }
 }
