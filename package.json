@@ -2,7 +2,7 @@
   "name": "click-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://deefg.github.io/clickGame/",
+  "homepage": "https://deefg.github.io/clckGame/",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
