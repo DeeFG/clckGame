@@ -11,7 +11,7 @@
 * GitHub pages
 * Javascript 
 * React
+* Axios
 * Node 
 * Bootstrap
-* NPM packages
-  * Express, express-handlebars,Sequelize
+
